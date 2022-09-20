@@ -1,5 +1,6 @@
 function(ostwpis)
-if (ostwpis = true)
+if (ostwpis == true)
+
 var entri = lib().entries(); 
 var l = entri.lenght
 var n = "ostatni wpis"
@@ -11,6 +12,4 @@ for (var ent = 0; ent < entri.length; ent++)
  
 {
 entri[ent].set(n,q+1); 
-
 }
-
