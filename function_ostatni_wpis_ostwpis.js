@@ -1,4 +1,4 @@
-function ostwpis(t)
+function ostwpis(t){
 if (t == true)
 
 var entri = lib().entries(); 
@@ -12,4 +12,5 @@ for (var ent = 0; ent < entri.length; ent++)
  
 {
 entri[ent].set(n,q+1); 
+}
 }
