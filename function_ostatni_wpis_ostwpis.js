@@ -1,5 +1,5 @@
-function(ostwpis)
-if (ostwpis == true)
+function ostwpis(t)
+if (t == true)
 
 var entri = lib().entries(); 
 var l = entri.lenght
