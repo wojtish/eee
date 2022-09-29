@@ -24,4 +24,5 @@ var pr  = "przepisy"
 var prbn  = libByName(pr)
 var lk = "lektury"
 var lkbn  = libByName(lk)
-// var  = ""
+var sm = "samochód"
+var smbn = libByName(sm)
