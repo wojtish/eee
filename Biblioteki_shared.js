@@ -26,3 +26,5 @@ var lk = "lektury"
 var lkbn  = libByName(lk)
 var sm = "samochód"
 var smbn = libByName(sm)
+var sc = "sukcesy cuda"
+var scbn = libByName(sc)
