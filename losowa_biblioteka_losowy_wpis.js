@@ -1,4 +1,4 @@
-var libraries = [lk,hk,hp,zt,lw,ma,rt,tc,ps,pr,sc]
+var libraries = [an,sm,lk,hk,hp,zt,lw,ma,rt,tc,ps,pr,sc]
 
 var item = libraries[Math.floor(Math.random()*libraries.length)];
 message(item)
