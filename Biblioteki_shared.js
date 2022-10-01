@@ -28,3 +28,5 @@ var sm = "samochód"
 var smbn = libByName(sm)
 var sc = "sukcesy cuda"
 var scbn = libByName(sc)
+var gc = "garderoba ubrania ciuchy"
+var gcbn = libByName(gc)
