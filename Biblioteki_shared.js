@@ -30,3 +30,6 @@ var sc = "sukcesy cuda"
 var scbn = libByName(sc)
 var gc = "garderoba ubrania ciuchy"
 var gcbn = libByName(gc)
+var pp = "plan posiłków"
+var ppbn = libByName(pp)
+
