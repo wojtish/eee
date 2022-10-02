@@ -32,4 +32,6 @@ var gc = "garderoba ubrania ciuchy"
 var gcbn = libByName(gc)
 var pp = "plan posiłków"
 var ppbn = libByName(pp)
+var bw = "budżet wydatki przychody zarządzanie"
+var bwbn = libByName(bw)
 
