@@ -36,3 +36,5 @@ var bw = "budżet wydatki przychody zarządzanie"
 var bwbn = libByName(bw)
 var cf = "ćwiczenia fitness youtube musepic"
 var cfbn = libByName(cf)
+var ag = "agenda memento harmonogram terminarz kalendarz zadania"
+var agbn = libByName(ag)
