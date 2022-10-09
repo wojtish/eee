@@ -38,3 +38,5 @@ var cf = "ćwiczenia fitness youtube musepic"
 var cfbn = libByName(cf)
 var ag = "agenda memento harmonogram terminarz kalendarz zadania"
 var agbn = libByName(ag)
+var zb = "życie ukryte w Bogu"
+var zbbn =libByName(zb)
