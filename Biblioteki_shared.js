@@ -42,3 +42,6 @@ var zb = "życie ukryte w Bogu Ojcu"
 var zbbn =libByName(zb)
 var mo = "mój ogród"
 var mobn =libByName(mo)
+var wi = "wiara"
+var wibn =libByName(wi)
+
