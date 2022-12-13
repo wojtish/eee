@@ -41,7 +41,15 @@ var agbn = libByName(ag)
 var zb = "życie ukryte w Bogu Ojcu"
 var zbbn =libByName(zb)
 var mo = "mój ogród"
-var mobn =libByName(mo)
+var mobn = libByName(mo)
 var wi = "wiara"
-var wibn =libByName(wi)
+var wibn = libByName(wi)
+var tm = "tabliczka mnożenia"
+var tmbn = libByName(tm)
+var tt = "time tracking"
+var ttbn = libByName(tt)
+var lk = "lokalizacje"
+var lkbn = libByName(lk)
+
+
 
