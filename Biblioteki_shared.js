@@ -48,8 +48,8 @@ var tm = "tabliczka mnożenia"
 var tmbn = libByName(tm)
 var tt = "time tracking"
 var ttbn = libByName(tt)
-var lk = "lokalizacje"
-var lkbn = libByName(lk)
+var lj = "lokalizacje"
+var ljbn = libByName(lj)
 
 
 
