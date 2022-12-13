@@ -2,7 +2,7 @@ var linkt = "tasker://secondary?text="
 var intview = intent("android.intent.action.VIEW");
 
 
-var hp = "Haczów przestrzenie
+var hp = "Haczów przestrzenie"
 var hpbn = libByName(hp)
 var zt = "zadania terminarz zajęć prac zadań zadania"
 var ztbn = libByName(zt)
