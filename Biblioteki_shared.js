@@ -48,7 +48,7 @@ var tm = "tabliczka mnożenia"
 var tmbn = libByName(tm)
 var tt = "time tracking"
 var ttbn = libByName(tt)
-var lj = "lokalizacje"
+var lj = "lokalizacje adresy"
 var ljbn = libByName(lj)
 
 
