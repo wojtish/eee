@@ -280,48 +280,48 @@ entries.reverse()[38].show()
 
 else if (entry40.field("h") == 0){
 entry40.set('h',1)
-entries.reverse()[19].show()
+entries.reverse()[39].show()
 }
 
 else if (entry41.field("h") == 0){
 entry41.set('h',1)
-entries.reverse()[20].show()
+entries.reverse()[40].show()
 }
 else if (entry42.field("h") == 0){
 entry42.set('h',1)
-entries.reverse()[21].show()
+entries.reverse()[41].show()
 }
 
 
 else if (entry43.field("h") == 0){
 entry43.set('h',1)
-entries.reverse()[22].show()
+entries.reverse()[42].show()
 }
 else if (entry44.field("h") == 0){
 entry44.set('h',1)
-entries.reverse()[23].show()
+entries.reverse()[43].show()
 }
 else if (entry45.field("h") == 0){
 entry45.set('h',1)
-entries.reverse()[24].show()
+entries.reverse()[44].show()
 }
 
 else if (entry46.field("h") == 0){
 entry46.set('h',1)
-entries.reverse()[25].show()
+entries.reverse()[45].show()
 }
 
 else if (entry47.field("h") == 0){
 entry47.set('h',1)
-entries.reverse()[26].show()
+entries.reverse()[46].show()
 }
 else if (entry48.field("h") == 0){
 entry48.set('h',1)
-entries.reverse()[27].show()
+entries.reverse()[47].show()
 }
 else if (entry49.field("h") == 0){
 entry49.set('h',1)
-entries.reverse()[28].show()
+entries.reverse()[48].show()
 }
 
 else {
