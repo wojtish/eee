@@ -8,9 +8,6 @@ var entries = libByName(item).entries()
 var min = Math.ceil(10000);
 var max = Math.floor(1000);
 
-var order = { compare: function(a,b) { return a.field("czas momentum") - b.field("czas momentum"); }}
-
-entries.sort(order)
 
 var order = { compare: function(a,b) { return a.field("czas momentum") - b.field("czas momentum"); }}
 
