@@ -322,7 +322,8 @@ entries.reverse()[48].show()
 }
 
 else {
-message(item)
+libByName(item).show()
+//message(item)
 }
 //entries[0].show()
 
