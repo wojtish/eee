@@ -324,8 +324,9 @@ entry49.set('h',1)
 entries.reverse()[28].show()
 }
 
-else
+else {
 message(item)
+}
 //entries[0].show()
 
 //entries.reverse()[0].show()
