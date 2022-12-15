@@ -148,7 +148,7 @@ else if (entry11 != null && entry11.field("h") == 0){
 entry11.set('h',1)
 entries.reverse()[10].show()
 }
-else if (entry12.field("h") == 0){
+else if (entry12 != null && entry12.field("h") == 0){
 entry12.set('h',1)
 entries.reverse()[11].show()
 }
