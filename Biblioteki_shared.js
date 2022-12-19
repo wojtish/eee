@@ -50,6 +50,8 @@ var tt = "time tracking"
 var ttbn = libByName(tt)
 var lj = "lokalizacje adresy"
 var ljbn = libByName(lj)
+var dz = "dziennik"
+var dzbn = libByName(dz)
 
 
 
