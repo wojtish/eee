@@ -52,6 +52,8 @@ var lj = "lokalizacje adresy"
 var ljbn = libByName(lj)
 var dz = "dziennik"
 var dzbn = libByName(dz)
+var rk = "Rzeszów katalog"
+var rkbn = libByName(rk)
 
 
 
