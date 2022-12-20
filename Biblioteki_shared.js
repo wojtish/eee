@@ -56,6 +56,8 @@ var rk = "Rzeszów katalog"
 var rkbn = libByName(rk)
 var wb = "waga baza danych"
 var wbbn = libByName(wb)
+var in = "informacje"
+var inbn = libByName(in)
 
 
 
