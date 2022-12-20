@@ -65,3 +65,5 @@ var kk = "kody kreskowe"
 var kkbn = libByName(kk)
 var mm = "muzo muzyka"
 var mmbn = libByName(mm)
+var tk = "teorie kognitywne"
+var tkbn = libByName(tk)
