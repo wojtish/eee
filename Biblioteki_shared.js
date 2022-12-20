@@ -63,3 +63,5 @@ var pt = "programy telewizyjne"
 var ptbn = libByName(pt)
 var kk = "kody kreskowe"
 var kkbn = libByName(kk)
+var mm = "muzo muzyka"
+var mmbn = libByName(mm)
