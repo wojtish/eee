@@ -61,3 +61,5 @@ var sp = "SPOTKANIA"
 var spbn = libByName(sp)
 var pt = "programy telewizyjne"
 var ptbn = libByName(pt)
+var kk = "kody kreskowe"
+var kkbn = libByName(kk)
