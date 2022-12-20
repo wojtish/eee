@@ -60,6 +60,8 @@ var in = "informacje"
 var inbn = libByName(in)
 var sp = "SPOTKANIA"
 var spbn = libByName(sp)
+var pt = "programy telewizyjne"
+var ptbn = libByName(pt)
 
 
 
