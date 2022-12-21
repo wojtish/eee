@@ -67,3 +67,5 @@ var mm = "muzo muzyka"
 var mmbn = libByName(mm)
 var tk = "teorie kognitywne"
 var tkbn = libByName(tk)
+var sl = "stan liczników waga kilometry"
+var slbn = libByName(sl)
