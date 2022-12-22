@@ -69,3 +69,5 @@ var tk = "teorie kognitywne"
 var tkbn = libByName(tk)
 var sl = "stan liczników waga kilometry"
 var slbn = libByName(sl)
+var sb = "Słowo Boże"
+var sbbn = libByName(sb)
