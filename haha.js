@@ -283,12 +283,12 @@ libByName(item).show()
 //entries.reverse()[0].show()
 //entries[0].show()
 
-//for (var ent = 0; ent < entries.length; ent++){    
-//var ggg = Math.floor(Math.random() * (max - min)) + min
-//var jjj = ggg / 100
-//var kkk = jjj.toFixed(2)
+for (var ent = 0; ent < entries.length; ent++){    
+var ggg = Math.floor(Math.random() * (max - min)) + min
+var jjj = ggg / 100
+var kkk = jjj.toFixed(2)
 
-//entries[ent].set("czas momentum",kkk);
-//}
+entries[ent].set("czas momentum",kkk);
+}
 
 
