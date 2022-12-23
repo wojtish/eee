@@ -1,7 +1,7 @@
-k = entry().field("h")
+k = entry().field("h");
 
 if( k == 1){
 entry().set("many",1)}
 else{
-entry().set("many",0)
+entry().set("many",0);
 }
