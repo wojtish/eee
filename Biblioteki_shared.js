@@ -1,6 +1,8 @@
 var linkt = "tasker://secondary?text="
 var intview = intent("android.intent.action.VIEW");
 
+var wr = "wiersze"
+var wrbn = libByName(wr)
 var hp = "Haczów przestrzenie"
 var hpbn = libByName(hp)
 var zt = "zadania terminarz zajęć prac zadań zadania"
