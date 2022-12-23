@@ -4,7 +4,7 @@ var l = ent.length;
 
 for (var j=0;j<l;j++) {
 
-k = ent("h");
+k = ent[j].field("h");
 
 if( k == 1){
 entry().set("many",1)}
