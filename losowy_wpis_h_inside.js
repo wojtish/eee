@@ -316,7 +316,9 @@ else if (entry49.field("h") == 0){
 entry49.set('h',1)
 entries.reverse()[48].show()
 }
-
+else{
+lib().show();
+}
 
 //entries[0].show()
 
