@@ -1,6 +1,17 @@
 var linkt = "tasker://secondary?text="
 var intview = intent("android.intent.action.VIEW");
 
+function memento(t){
+if ( t == true )
+{
+intview.data(linkt + "memento")
+intview.send()
+//message("test ok");
+};
+};
+
+
+
 var wr = "wiersze"
 var wrbn = libByName(wr)
 var hp = "Haczów przestrzenie"
