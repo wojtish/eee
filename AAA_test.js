@@ -1,1 +1,2 @@
-message("przed zmianą")
+//message("przed zmianą")
+message("po zmianie")
