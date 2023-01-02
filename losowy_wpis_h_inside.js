@@ -102,7 +102,7 @@ else if (entry10 != null && entry10.field("h") == 0 && entry10.field("wykluczone
 entry10.set('h',1)
 entries.reverse()[9].show()
 }
-else if (entry11 != null && entry11.field("h") == 0 && entr11.field("wykluczone") == 1){
+else if (entry11 != null && entry11.field("h") == 0 && entry11.field("wykluczone") == 1){
 entry11.set('h',1)
 entries.reverse()[10].show()
 }
