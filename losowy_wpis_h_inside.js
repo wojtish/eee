@@ -61,7 +61,7 @@ var entry49 = entries.reverse()[48]
 var entry50 = entries.reverse()[49]
 
 
-if (entry1.field("h") == 0){
+if (entry1.field("h") == 0 && entry2.field("wykluczone") == 1){
 entry1.set("h",1)
 entries.reverse()[0].show()
 //************"************
