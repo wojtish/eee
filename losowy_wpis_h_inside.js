@@ -174,87 +174,87 @@ else if (entry28 != null && entry28.field("h") == 0 && entry28.field("wykluczone
 entry28.set('h',1)
 entries.reverse()[27].show()
 }
-else if (entry29 != null && entry29.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry29 != null && entry29.field("h") == 0 && entry29.field("wykluczone") == 1){
 entry29.set('h',1)
 entries.reverse()[28].show()
 }
-else if (entry30 != null && entry30.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry30 != null && entry30.field("h") == 0 && entry30.field("wykluczone") == 1){
 entry30.set('h',1)
 entries.reverse()[29].show()
 }
-else if (entry31 != null && entry31.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry31 != null && entry31.field("h") == 0 && entry31.field("wykluczone") == 1){
 entry31.set('h',1)
 entries.reverse()[30].show()
 }
-else if (entry32 != null && entry32.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry32 != null && entry32.field("h") == 0 && entry32.field("wykluczone") == 1){
 entry32.set('h',1)
 entries.reverse()[31].show()
 }
-else if (entry33 != null && entry33.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry33 != null && entry33.field("h") == 0 && entry33.field("wykluczone") == 1){
 entry33.set('h',1)
 entries.reverse()[32].show()
 }
-else if (entry34 != null && entry34.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry34 != null && entry34.field("h") == 0 && entry34.field("wykluczone") == 1){
 entry34.set('h',1)
 entries.reverse()[33].show()
 }
-else if (entry35 != null && entry35.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry35 != null && entry35.field("h") == 0 && entry35.field("wykluczone") == 1){
 entry35.set('h',1)
 entries.reverse()[34].show()
 }
-else if (entry36 != null && entry36.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry36 != null && entry36.field("h") == 0 && entry36.field("wykluczone") == 1){
 entry36.set('h',1)
 entries.reverse()[35].show()
 }
-else if (entry37 != null && entry37.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry37 != null && entry37.field("h") == 0 && entry37.field("wykluczone") == 1){
 entry37.set('h',1)
 entries.reverse()[36].show()
 }
-else if (entry38 != null && entry38.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry38 != null && entry38.field("h") == 0 && entry38.field("wykluczone") == 1){
 entry38.set('h',1)
 entries.reverse()[37].show()
 }
-else if (entry39 != null && entry39.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry39 != null && entry39.field("h") == 0 && entry39.field("wykluczone") == 1){
 entry39.set('h',1)
 entries.reverse()[38].show()
 }
-else if (entry40 != null && entry40.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry40 != null && entry40.field("h") == 0 && entry40.field("wykluczone") == 1){
 entry40.set('h',1)
 entries.reverse()[39].show()
 }
-else if (entry41 != null && entry41.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry41 != null && entry41.field("h") == 0 && entry41.field("wykluczone") == 1){
 entry41.set('h',1)
 entries.reverse()[40].show()
 }
-else if (entry42 != null && entry42.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry42 != null && entry42.field("h") == 0 && entry42.field("wykluczone") == 1){
 entry42.set('h',1)
 entries.reverse()[41].show()
 }
-else if (entry43 != null && entry43.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry43 != null && entry43.field("h") == 0 && entry43.field("wykluczone") == 1){
 entry43.set('h',1)
 entries.reverse()[42].show()
 }
-else if (entry44 != null && entry44.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry44 != null && entry44.field("h") == 0 && entry44.field("wykluczone") == 1){
 entry44.set('h',1)
 entries.reverse()[43].show()
 }
-else if (entry45 != null && entry45.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry45 != null && entry45.field("h") == 0 && entry45.field("wykluczone") == 1){
 entry45.set('h',1)
 entries.reverse()[44].show()
 }
-else if (entry46 != null && entry46.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry46 != null && entry46.field("h") == 0 && entry46.field("wykluczone") == 1){
 entry46.set('h',1)
 entries.reverse()[45].show()
 }
-else if (entry47 != null && entry47.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry47 != null && entry47.field("h") == 0 && entry47.field("wykluczone") == 1){
 entry47.set('h',1)
 entries.reverse()[46].show()
 }
-else if (entry48 != null && entry48.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry48 != null && entry48.field("h") == 0 && entry48.field("wykluczone") == 1){
 entry48.set('h',1)
 entries.reverse()[47].show()
 }
-else if (entry49 != null && entry49.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry49 != null && entry49.field("h") == 0 && entry49.field("wykluczone") == 1){
 entry49.set('h',1)
 entries.reverse()[48].show()
 }
