@@ -66,7 +66,7 @@ entry1.set("h",1)
 entries.reverse()[0].show()
 //************"************
 }
-else if (entry2 != null && entry2.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry2 != null && entry2.field("h") == 0 && entry2.field("wykluczone") == 1){
 entry2.set('h',1)
 entries.reverse()[1].show()
 }
@@ -74,103 +74,103 @@ else if (entry3 != null && entry3.field("h") == 0 && entry3.field("wykluczone") 
 entry3.set("h",1)
 entries.reverse()[2].show()
 }
-else if (entry4 != null && entry4.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry4 != null && entry4.field("h") == 0 && entry4.field("wykluczone") == 1){
 entry4.set("h",1)
 entries.reverse()[3].show()
 }
-else if (entry5 != null && entry5.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry5 != null && entry5.field("h") == 0 && entry5.field("wykluczone") == 1){
 entry5.set('h',1)
 entries.reverse()[4].show()
 }
-else if (entry6 != null && entry6.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry6 != null && entry6.field("h") == 0 && entry6.field("wykluczone") == 1){
 entry6.set('h',1)
 entries.reverse()[5].show()
 }
-else if (entry7 != null && entry7.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry7 != null && entry7.field("h") == 0 && entry7.field("wykluczone") == 1){
 entry7.set('h',1)
 entries.reverse()[6].show()
 }
-else if (entry8 != null && entry8.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry8 != null && entry8.field("h") == 0 && entry8.field("wykluczone") == 1){
 entry8.set('h',1)
 entries.reverse()[7].show()
 }
-else if (entry9 != null && entry9.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry9 != null && entry9.field("h") == 0 && entry9.field("wykluczone") == 1){
 entry9.set('h',1)
 entries.reverse()[8].show()
 }
-else if (entry10 != null && entry10.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry10 != null && entry10.field("h") == 0 && entry10.field("wykluczone") == 1){
 entry10.set('h',1)
 entries.reverse()[9].show()
 }
-else if (entry11 != null && entry11.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry11 != null && entry11.field("h") == 0 && entr11.field("wykluczone") == 1){
 entry11.set('h',1)
 entries.reverse()[10].show()
 }
-else if (entry12 != null && entry12.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry12 != null && entry12.field("h") == 0 && entry12.field("wykluczone") == 1){
 entry12.set('h',1)
 entries.reverse()[11].show()
 }
-else if (entry13 != null && entry13.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry13 != null && entry13.field("h") == 0 && entry13.field("wykluczone") == 1){
 entry13.set('h',1)
 entries.reverse()[12].show()
 }
-else if (entry14 != null && entry14.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry14 != null && entry14.field("h") == 0 && entry14.field("wykluczone") == 1){
 entry14.set('h',1)
 entries.reverse()[13].show()
 }
-else if (entry15 != null && entry15.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry15 != null && entry15.field("h") == 0 && entry15.field("wykluczone") == 1){
 entry15.set('h',1)
 entries.reverse()[14].show()
 }
-else if (entry16 != null && entry16.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry16 != null && entry16.field("h") == 0 && entry6.field("wykluczone") == 1){
 entry16.set('h',1)
 entries.reverse()[15].show()
 }
-else if (entry17 != null && entry17.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry17 != null && entry17.field("h") == 0 && entry17.field("wykluczone") == 1){
 entry17.set('h',1)
 entries.reverse()[16].show()
 }
-else if (entry18 != null && entry18.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry18 != null && entry18.field("h") == 0 && entry18.field("wykluczone") == 1){
 entry18.set('h',1)
 entries.reverse()[17].show()
 }
-else if (entry19 != null && entry19.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry19 != null && entry19.field("h") == 0 && entry19.field("wykluczone") == 1){
 entry19.set('h',1)
 entries.reverse()[18].show()
 }
-else if (entry20 != null && entry20.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry20 != null && entry20.field("h") == 0 && entry20.field("wykluczone") == 1){
 entry20.set('h',1)
 entries.reverse()[19].show()
 }
-else if (entry21 != null && entry21.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry21 != null && entry21.field("h") == 0 && entry21.field("wykluczone") == 1){
 entry21.set('h',1)
 entries.reverse()[20].show()
 }
-else if (entry22 != null && entry22.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry22 != null && entry22.field("h") == 0 && entry22.field("wykluczone") == 1){
 entry22.set('h',1)
 entries.reverse()[21].show()
 }
-else if (entry23 != null && entry23.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry23 != null && entry23.field("h") == 0 && entry23.field("wykluczone") == 1){
 entry23.set('h',1)
 entries.reverse()[22].show()
 }
-else if (entry24 != null && entry24.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry24 != null && entry24.field("h") == 0 && entry24.field("wykluczone") == 1){
 entry24.set('h',1)
 entries.reverse()[23].show()
 }
-else if (entry25 != null && entry25.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry25 != null && entry25.field("h") == 0 && entry25.field("wykluczone") == 1){
 entry25.set('h',1)
 entries.reverse()[24].show()
 }
-else if (entry26 != null && entry26.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry26 != null && entry26.field("h") == 0 && entry26.field("wykluczone") == 1){
 entry26.set('h',1)
 entries.reverse()[25].show()
 }
-else if (entry27 != null && entry27.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry27 != null && entry27.field("h") == 0 && entry27.field("wykluczone") == 1){
 entry27.set('h',1)
 entries.reverse()[26].show()
 }
-else if (entry28 != null && entry28.field("h") == 0 && entry3.field("wykluczone") == 1){
+else if (entry28 != null && entry28.field("h") == 0 && entry28.field("wykluczone") == 1){
 entry28.set('h',1)
 entries.reverse()[27].show()
 }
