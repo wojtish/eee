@@ -11,7 +11,9 @@ intview.send()
 };
 
 
-
+var pg = "pogoda"
+var pgbn = libByName(pg)"
+var wrbn = libByName(wr)
 var wr = "wiersze"
 var wrbn = libByName(wr)
 var hp = "Haczów przestrzenie"
