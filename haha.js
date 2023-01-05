@@ -1,32 +1,38 @@
 var libraries = [pg,wr,sb,sl,tk,mm,kk,pt,sp,ic,wb,rk,dz,tm,tm,tt,lj,wi,mo,zb,ag,cf,bw,pp,gc,an,sm,lk,hk,hp,zt,lw,ma,rt,tc,ps,pr,sc];
 //var libraries = [ag,cf];
+his = entry().field("bib_wył")
+for (var bib = 0; bib < libraries.length; bib++){ 
+
+if(libraries[bib].
+
 var item = libraries[Math.floor(Math.random()*libraries.length)];
 //message(item)
-
-var entries = libByName(item).entries()
 
 var min = Math.ceil(10000);
 var max = Math.floor(1000);
 
+var entries = libByName(item).entries()
+for (var ent = 0; ent < entries.length; ent++){ 
+
+if(entries[ent].field("bib_wył") = 1){
+
+var item2 = libraries[Math.floor(Math.random()*libraries.length)];
+var entries = libByName(item2).entries()
+
 
 var order = { compare: function(a,b) { return a.field("czas momentum") - b.field("czas momentum"); }}
 
-
 entries.sort(order)
+
 var entry1 = entries.reverse()[0]
 var entry2 = entries.reverse()[1]
-
 var entry3 = entries.reverse()[2]
 var entry4 = entries.reverse()[3]
 var entry5 = entries.reverse()[4]
 var entry6 = entries.reverse()[5]
-
 var entry7 = entries.reverse()[6]
-
 var entry8 = entries.reverse()[7]
-
 var entry9 = entries.reverse()[8]
-
 var entry10 = entries.reverse()[9]
 var entry11 = entries.reverse()[10]
 var entry12 = entries.reverse()[11]
