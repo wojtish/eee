@@ -1,23 +1,24 @@
-var libraries = [pg,wr,sb,sl,tk,mm,kk,pt,sp,ic,wb,rk,dz,tm,tm,tt,lj,wi,mo,zb,ag,cf,bw,pp,gc,an,sm,lk,hk,hp,zt,lw,ma,rt,tc,ps,pr,sc];
-//var libraries = [ag,cf];
-his = entry().field("bib_wył")
-for (var bib = 0; bib < libraries.length; bib++){ 
+var min = Math.ceil(10000);
+var max = Math.floor(1000);
 
-if(libraries[bib].
+var libraries = [pg,wr,sb,sl,tk,mm,kk,pt,sp,ic,wb,rk,dz,tm,tm,tt,lj,wi,mo,zb,ag,cf,bw,pp,gc,an,sm,lk,hk,hp,zt,lw,ma,rt,tc,ps,pr,sc];
+
+//var libraries = [ag,cf];
+//var prime = []
+//his = entry().field("bib_wył")
+//for (var bib = 0; bib < libraries.length; bib++){ 
 
 var item = libraries[Math.floor(Math.random()*libraries.length)];
 //message(item)
 
-var min = Math.ceil(10000);
-var max = Math.floor(1000);
-
 var entries = libByName(item).entries()
-for (var ent = 0; ent < entries.length; ent++){ 
 
-if(entries[ent].field("bib_wył") = 1){
-
-var item2 = libraries[Math.floor(Math.random()*libraries.length)];
-var entries = libByName(item2).entries()
+//for (var ent = 0; ent < entries.length; ent++){ 
+//if(entries[ent].field("bib_wył") = 1){
+//libraries.pop(item)
+//prime.push(item)
+//var item2 = libraries[Math.floor(Math.random()*libraries.length)];
+//var entries = libByName(item2).entries()
 
 
 var order = { compare: function(a,b) { return a.field("czas momentum") - b.field("czas momentum"); }}
