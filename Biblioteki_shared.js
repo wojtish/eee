@@ -11,6 +11,8 @@ intview.send()
 };
 
 
+var bm = "bieganie memento";
+var bmbn = libByName(bm);
 var pg = "pogoda";
 var pgbn = libByName(pg);
 var wrbn = libByName(wr)
