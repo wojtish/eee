@@ -3,7 +3,7 @@ var max = Math.floor(1000);
 
 //var libraries = [bm,pg,wr,sb,sl,tk,mm,kk,pt,sp,ic,wb,rk,dz,tm,tm,tt,lj,wi,mo,zb,ag,cf,bw,pp,gc,an,sm,lk,hk,hp,zt,lw,ma,rt,tc,ps,pr,sc];
 
-//var libraries = [bm,cf];
+var libraries = [bm,cf];
 var prime = []
 //his = entry().field("bib_wył")
 //for (var bib = 0; bib < libraries.length; bib++){ 
