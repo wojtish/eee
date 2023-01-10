@@ -11,6 +11,9 @@ intview.send()
 };
 
 
+
+var ta = "trasy szlaki aktywności sportowe memento";
+var tabn = libByName(ta);
 var bm = "bieganie memento";
 var bmbn = libByName(bm);
 var pg = "pogoda";
