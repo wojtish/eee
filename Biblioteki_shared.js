@@ -91,3 +91,5 @@ var sl = "stan liczników waga kilometry"
 var slbn = libByName(sl)
 var sb = "Słowo Boże"
 var sbbn = libByName(sb)
+var sj = "skrypty java script javascript memento";
+var sjbn = libByName(sj);
