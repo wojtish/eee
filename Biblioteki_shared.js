@@ -11,7 +11,8 @@ intview.send()
 };
 
 
-
+var im = "important";
+var imbn = libByName(im);
 var ta = "trasy szlaki aktywności sportowe memento";
 var tabn = libByName(ta);
 var bm = "bieganie memento";
