@@ -1,2 +1,3 @@
-linkt = "tasker://secondary?text="
- intview = intent("android.intent.action.VIEW");
+// szukaj_memento.js (biblioteki_shared.js)
+intview.data(linkt + "szukajmemento")
+intview.send()
