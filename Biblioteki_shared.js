@@ -100,3 +100,5 @@ var ll = "linki linki linki internet"
 var llbn = libByName(ll)
 var wh = "wehikuły auta samochody memento"
 var whbn = libByName(wh)
+var zp = "za i przeciw analiza rozeznanie memento"
+var zpbn = libByName(zp)
