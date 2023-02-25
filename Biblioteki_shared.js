@@ -98,3 +98,5 @@ var nm = "nauka memento"
 var nmbn = libByName(nm)
 var ll = "linki linki linki internet"
 var llbn = libByName(ll)
+var wh = "wehikuły auta samochody memento"
+var whbn = libByName(wh)
