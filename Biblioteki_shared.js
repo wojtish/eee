@@ -104,3 +104,5 @@ var zp = "za i przeciw analiza rozeznanie memento"
 var zpbn = libByName(zp)
 var lo = "ważne działania moje kroki log systemu"
 var lobn = libByName(lo)
+var te = "TEMPLATE TIMETUNE"
+var tebn = libByName(te)
