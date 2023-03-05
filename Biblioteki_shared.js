@@ -106,3 +106,6 @@ var lo = "ważne działania moje kroki log systemu"
 var lobn = libByName(lo)
 var te = "TEMPLATE TIMETUNE"
 var tebn = libByName(te)
+var dm = "dochodzenia memento investigations"
+var dmbn = libByName(dm)
+
