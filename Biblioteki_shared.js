@@ -19,9 +19,6 @@ var bm = "bieganie memento";
 var bmbn = libByName(bm);
 var pg = "pogoda";
 var pgbn = libByName(pg);
-var wrbn = libByName(wr)
-var wr = "wiersze"
-var wrbn = libByName(wr)
 var hp = "Haczów przestrzenie"
 var hpbn = libByName(hp)
 var zt = "zadania terminarz zajęć prac zadań zadania"
@@ -62,8 +59,6 @@ var zb = "życie ukryte w Bogu Ojcu"
 var zbbn =libByName(zb)
 var mo = "mój ogród"
 var mobn = libByName(mo)
-var wi = "wiara"
-var wibn = libByName(wi)
 var tm = "tabliczka mnożenia"
 var tmbn = libByName(tm)
 var tt = "time tracking"
@@ -98,12 +93,20 @@ var nm = "nauka memento"
 var nmbn = libByName(nm)
 var ll = "linki linki linki internet"
 var llbn = libByName(ll)
+var wi = "wiara"
+
+var wibn = libByName(wi)
+
 var wh = "wehikuły auta samochody memento"
 var whbn = libByName(wh)
-var zp = "za i przeciw analiza rozeznanie memento"
-var zpbn = libByName(zp)
+var wr = "wiersze"
+var wrbn = libByName(wr)
 var lo = "ważne działania moje kroki log systemu"
 var lobn = libByName(lo)
+var zp = "za i przeciw analiza rozeznanie memento"
+var zpbn = libByName(zp)
+
+
 var te = "TEMPLATE TIMETUNE"
 var tebn = libByName(te)
 var dm = "dochodzenia memento investigations"
