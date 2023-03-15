@@ -8,7 +8,9 @@ if ( t == true )
 {
 intview.data(linkt + "memento")
 intview.send()
-//message("test ok"); }; };
+//message("test ok"); 
+}; 
+};
 
 //****A****
 //****A****
