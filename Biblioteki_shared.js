@@ -133,8 +133,8 @@ var scbn = libByName(sc);
 //****T****
 var tm = "tabliczka mnożenia"
 var tmbn = libByName(tm)
-var tc = "techniczna"
-var tcbn = libByName(tc);
+//var tc = "techniczna"
+//var tcbn = libByName(tc);
 var te = "TEMPLATE TIMETUNE"
 var tebn = libByName(te)
 var tk = "teorie kognitywne"
