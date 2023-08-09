@@ -38,6 +38,12 @@ var dz = "dziennik";
 var dzbn = libByName(dz);
 var dm = "dochodzenia memento investigations"
 var dmbn = libByName(dm)
+//****F****
+//****F****
+//****F****
+var fs = "focus samochód memento";
+var fsbn = libByName(fs);
+
 //****G****
 //****G****
 //****G****
