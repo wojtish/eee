@@ -1,4 +1,4 @@
-var entries = lib().entries()...
+var entries = lib().entries()
 
 
 var min = Math.ceil(10000);
