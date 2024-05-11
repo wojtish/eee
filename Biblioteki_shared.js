@@ -38,6 +38,9 @@ var dz = "dziennik";
 var dzbn = libByName(dz);
 var dm = "dochodzenia memento investigations"
 var dmbn = libByName(dm)
+var dom = "domostwa Haczów domy budynki";
+var dombn = libByName(dom);
+
 //****F****
 //****F****
 //****F****
@@ -73,7 +76,7 @@ var imbn = libByName(im);
 var kk = "kody kreskowe";
 var kkbn = libByName(kk);
 var kl = "kilometraż";
-var klbn = libByName(kk);
+var klbn = libByName(kl);
 //****L****
 //****L****
 //****L****
