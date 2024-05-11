@@ -73,10 +73,12 @@ var imbn = libByName(im);
 //****K****
 //****K****
 //****K****
-var kk = "kody kreskowe";
-var kkbn = libByName(kk);
 var kl = "kilometraż";
 var klbn = libByName(kl);
+var kk = "kody kreskowe";
+var kkbn = libByName(kk);
+var kś = "kościoły lokalizacje";
+var kśbn = libByName(kś);
 //****L****
 //****L****
 //****L****
