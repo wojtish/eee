@@ -72,6 +72,8 @@ var imbn = libByName(im);
 //****K****
 var kk = "kody kreskowe";
 var kkbn = libByName(kk);
+var kl = "kilometraż";
+var klbn = libByName(kk);
 //****L****
 //****L****
 //****L****
