@@ -176,6 +176,9 @@ var wrbn = libByName(wr)
 //****Z****
 var zt = "zadania terminarz zajęć prac zadań zadania"
 var ztbn = libByName(zt)
+
+var zpo = "zadaniowa poczekalnia";
+var zpobn = libByName(zpo);
 var zp = "za i przeciw analiza rozeznanie memento"
 var zpbn = libByName(zp)
 
