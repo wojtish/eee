@@ -22,6 +22,8 @@ var anbn = libByName(an);
 //****B****
 //****B****
 //****B****
+var bib = "Biblia Audio memento";
+var bibbn = libByName(bib);
 var bm = "bieganie memento";
 var bmbn = libByName(bm);
 var bw = "budżet wydatki przychody zarządzanie";
