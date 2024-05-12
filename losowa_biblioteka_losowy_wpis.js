@@ -1,4 +1,4 @@
-var libraries = [zpo,kś,kl,dom,fs,ll,nm,im,ta,bm,pg,wr,sb,sl,tk,mm,kk,pt,sp,ic,wb,rk,tm,tt,lj,wi,mo,zb,ag,cf,bw,pp,gc,an,sm,lk,hk,hp,zt,lw,ma,rt,ps,pr,sc];
+var libraries = [bib,zpo,kś,kl,dom,fs,ll,nm,im,ta,bm,pg,wr,sb,sl,tk,mm,kk,pt,sp,ic,wb,rk,tm,tt,lj,wi,mo,zb,ag,cf,bw,pp,gc,an,sm,lk,hk,hp,zt,lw,ma,rt,ps,pr,sc];
 // var libraries = [];
 var item = libraries[Math.floor(Math.random()*libraries.length)];
 //message(item)
